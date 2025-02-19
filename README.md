@@ -1,14 +1,13 @@
-> Hi, I am from and now senior Computer Science Major and Music Business and Tech Minor. I am very interested in Music Creation and filming.
+> Hi, I am a Master Science in Computer Science and focues on Software Engeering areas like system, software dev, cloud computing, Full Stack etc.
 
 #### 🔭 I’m currently working on ...
-  - Web design and development
-  - Anime music sheet arrangement
-  - Photography and short film creation 
+  - Web design and development (Roadmap, Band Slot)
+  - Job hunting... >_<
+  - Band Music in NYC @ Mujame
 
 #### 🌱 I’m currently learning ...
-  - iOS development
+  - ML Clouding
   - Machine Learning
-  - Filming nad photoing
 
 #### 👯 I’m looking to collaborate on ...
   - Game dev (Unity)
